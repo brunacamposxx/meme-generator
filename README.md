@@ -1,19 +1,15 @@
 # Boas vindas ao repositório do projeto Meme Generator!
 
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
-
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
-
----
+Projeto avalido pela @trybe em dezembro de 2020 como opcional. Vou desenvolve-lo em breve.
 
 ## Instruções para entregar seu projeto:
 
 ### 🗒ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-08-project-meme-generate.git`.
+  * `git clone https://github.com/brunacamposxx/meme-generator`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-08-project-meme-generate`
+    * `cd project-meme-generate`
 
 2. Crie uma branch a partir da branch `master`
   * Verifique que você está na branch `master`
@@ -222,42 +218,5 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 
 * ⚠ **RECOMENDAMOS QUE VOCÊ FIQUE ATENTO ÀS ISSUES DO CODE CLIMATE, PARA RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO. A PARTIR DO PRÓXIMO BLOCO SEU PROJETO SOMENTE SERÁ AVALIADO SE NÃO TIVER ISSUES NO CODE CLIMATE!** ⚠
 
-* Faça `commits` das alterações que você fizer no código regularmente;
-
-* Lembre-se de sempre após um ~~(ou alguns)~~ `commits` atualizar o repositório remoto (o famoso `git push`);
-
-* Os comandos que você utilizará com mais frequência são:
-
-  1. `git status` _(para verificar o que está em vermelho - fora do stage - e o que está em verde - no stage)_;
-
-  2. `git add` _(para adicionar arquivos ao stage do Git)_;
-
-  3. `git commit` _(para criar um commit com os arquivos que estão no stage do Git)_;
-
-  5. `git push -u nome-da-branch` _(para enviar o commit para o repositório remoto na primeira vez que fizer o `push` de uma nova branch)_;
-
-  4. `git push` _(para enviar o commit para o repositório remoto após o passo anterior)_.
-
----
-
-### DEPOIS DE TERMINAR O DESENVOLVIMENTO (OPCIONAL)
-
-Para sinalizar que o seu projeto está pronto para o _"Code Review"_ dos seus colegas, faça o seguinte:
-
-* Vá até a página **DO SEU** _Pull Request_, adicione a label de _"code-review"_ e marque seus colegas:
-
-  * No menu à direita, clique no _link_ **"Labels"** e escolha a _label_ **code-review**;
-
-  * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
-
-  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-08`.
-
-Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
-
----
-
-### REVISANDO UM PULL REQUEST
-
-Use o conteúdo sobre [Code Review](https://course.betrybe.com/real-life-engineer/code-review/) para te ajudar a revisar os _Pull Requests_.
 
 #VQV 🚀
